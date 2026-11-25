@@ -1,0 +1,6 @@
+{
+  "name": "ERA NETWORK PARTNERS — Présentation Officielle",
+  "description": "Présentation vidéo professionnelle de 2 minutes pour ERA NETWORK PARTNERS : formation PCEICN, e-commerce communautaire, projets sécurisés par séquestre et leadership communautaire entre l'Afrique et la Diaspora.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
